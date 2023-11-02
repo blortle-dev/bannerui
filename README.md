@@ -1,8 +1,8 @@
-![top|690x276, 100%](upload://kIdVBM4WWL5WHCXQPy7Oby9orV4.png)
+![top](https://github.com/blortle-dev/bannerui/assets/144735570/4d1d1f26-7ce2-4b93-9e1c-eb7c816a1801)
 
 BannerUI is a new, modern admin panel for Roblox games. BannerUI is designed to be simple and elegant, allowing you to quickly perform actions on any player in Roblox.
 
-![header|690x172, 100%](upload://vLAw4IPR7diQVsq6N4oSM1lmFru.png)
+![feat](https://github.com/blortle-dev/bannerui/assets/144735570/de6cfdf6-7a86-4ea4-bb60-5d779318e0c7)
 
 BannerUI features many features to help you moderate your game. These include:
 
@@ -24,38 +24,36 @@ Additionally, many features are **planned to be added**, such as:
 - Chat logs for a player
 - Expand warnings and server messages to other servers
 
-![interface|690x172](upload://17OD7EFlXM7EcQNx7QFbswKNH0a.png)
+![int](https://github.com/blortle-dev/bannerui/assets/144735570/17e3fb1a-9542-4e68-a3a2-855639355d7e)
 
 All UI is available in a light and dark theme, defaulting to dark. Each user can have their own theme setting.
 
-[details="Interface Images"]
 Main Menu
-![main|500x500, 100%](upload://4GNMHwAHtTJHOoaYkaAsQFKQ7mA.png)
+![ui-preview-main](https://github.com/blortle-dev/bannerui/assets/144735570/7aab5767-41be-4d93-a743-3818ced50062)
 
 Ban Menu
-![ban|500x500, 100%](upload://m6D06GUpPs7fucjPrQYQR2rgKiU.png)
+![ui-preview-ban](https://github.com/blortle-dev/bannerui/assets/144735570/c856c10e-1947-482c-bc04-d85a964dff4c)
 
 History Menu
-![history|500x500](upload://w8y36ijYbpmWUW5bzO9oFv4mSah.png)
-[/details]
+![ui-preview-history](https://github.com/blortle-dev/bannerui/assets/144735570/7521edb1-d055-4931-b80e-0f6efee7944a)
 
-![download|690x172](upload://kCssiHKjH0MG6cW9L16QXpbMjlV.png)
+![downl](https://github.com/blortle-dev/bannerui/assets/144735570/c4b1231b-084b-408b-a293-97e396ea7eee)
 
 You can install and update BannerUI in two ways:
 
 - Install and auto-update via [BannerUI Manager](https://create.roblox.com/marketplace/asset/15113016858/BannerUI%3Fkeyword=&pageNumber=&pagePosition=)
 - Manually install and update through the [stable release](https://create.roblox.com/marketplace/asset/15118309100/BannerUI%3Fkeyword=&pageNumber=&pagePosition=) or [dev release](https://create.roblox.com/marketplace/asset/15111210426/BannerDev%3Fkeyword=&pageNumber=&pagePosition=)
 
-![setup|690x172](upload://lyIuuetHbU4Cjvkgu7WZHY2wTbb.png)
+![set](https://github.com/blortle-dev/bannerui/assets/144735570/f4d1a322-3b2c-46ed-9d86-dc137cf6be51)
 
-1. To set up BannerUI, ensure the <kbd>BannerManager </kbd> script is located in <kbd>ServerScriptService</kbd>.
-2. The auto-installer automatically inserts the script to <kbd>ServerScriptService</kbd>.
-3. Once the script is in the right spot, locate the <kbd>Authorized</kbd> folder. It can be found under the main script.
-4. To add an administrator, create any object (or duplicate/modify the existing object) in the <kbd>Authorized</kbd> folder. 
+1. To set up BannerUI, ensure the BannerManager script is located in ServerScriptService.
+2. The auto-installer automatically inserts the script to ServerScriptService.
+3. Once the script is in the right spot, locate the Authorized folder. It can be found under the main script.
+4. To add an administrator, create any object (or duplicate/modify the existing object) in the Authorized folder. 
 5. Set the name of your new object to the User ID of the player you want to be an Admin. The other properties of the object do not matter.
 6. Repeat this process for all admins, and BannerUI will do the rest.
 
-![other|690x172](upload://r4d7eKEFiOpi5M4JufxF9IN88oT.png)
+![oth](https://github.com/blortle-dev/bannerui/assets/144735570/f5fd59ca-7bfa-4d8f-b621-0addd338085f)
 
 BannerUI is completely free to use, and does not require credit. However, please follow these guidelines:
 
